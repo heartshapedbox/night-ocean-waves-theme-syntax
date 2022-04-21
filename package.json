@@ -1,0 +1,24 @@
+{
+  "name": "night-ocean-waves-theme-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Night Ocean Waves syntax theme.",
+  "keywords": [
+    "night",
+    "ocean",
+    "waves",
+    "syntax",
+    "theme",
+    "syntax-theme",
+    "atom",
+    "dark-theme",
+    "themes",
+    "colour-scheme",
+    "colourscheme"
+  ],
+  "repository": "https://github.com/heartshapedbox/night-ocean-waves-theme-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
